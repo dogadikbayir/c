@@ -2,4 +2,3 @@
 node_modules
 queue.json
 package-lock.json
-.env
